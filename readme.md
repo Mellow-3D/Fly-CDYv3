@@ -1,6 +1,8 @@
 # Fly-CDYv3
 
-The Fly-CDYv3 can be purchased from AliExpress https://www.aliexpress.com/item/1005001701631493.html
+The Fly-CDYv3 can be purchased from AliExpress https://s.click.aliexpress.com/e/_DdWiauZ
+
+This link is affiliated URL. If you purchase via link above it will give tiny cent of commission to the community organizers. (We are not Mellow employees, just 3D printer enthusiasts) This will not hurt your wallet and at the same time help us to maintain the GitHub better.
 
 RRF information can be found here https://teamgloomy.github.io/fly_cdyv3_general.html
 
